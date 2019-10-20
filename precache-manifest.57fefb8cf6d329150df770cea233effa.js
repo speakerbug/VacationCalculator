@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fabb03d1d9fc1896098733b974755f2a",
+    "revision": "afa1a8243e672aecebc9a169a6cfb1dd",
     "url": "/VacationCalculator/index.html"
   },
   {
