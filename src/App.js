@@ -34,21 +34,21 @@ class App extends React.Component {
       <div className="col-4">
       <form className="form-horizontal">
   <div className="form-group">
-    <label className="control-label col-sm-7">Vacation Earned:</label>
+    <label className="control-label col-sm-7">1. Vacation Earned:</label>
     <div className="col-sm-5">
       <input type="number" name="earned" onChange={this.myChangeHandler} className="form-control" />
     </div>
   </div>
 
   <div className="form-group">
-    <label className="control-label col-sm-7">Vacation Available:</label>
+    <label className="control-label col-sm-7">2. Vacation Available:</label>
     <div className="col-sm-5">
       <input type="number" name="available" onChange={this.myChangeHandler} className="form-control" />
     </div>
   </div>
 
   <div className="form-group">
-    <label className="control-label col-sm-7">Vacation Accrual Rate:</label>
+    <label className="control-label col-sm-7">3. Vacation Accrual Rate:</label>
     <div className="col-sm-5">
       <input type="number" name="rate" onChange={this.myChangeHandler} className="form-control" />
     </div>
