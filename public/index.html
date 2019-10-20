@@ -7,9 +7,8 @@
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
-      content="Web site created using create-react-app"
+      content="Calculate how much vacation you have left."
     />
-    <link rel="apple-touch-icon" href="logo192.png" />
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -45,5 +44,24 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>Where do I find these values?</h2>
+          <p>The above values can be obtained by signing into <strong><a href="https://ew45.ultipro.com" target="_blank">UltiPro</a></strong>.</p>
+          <p>On the home screen you can obtain your <strong>Vacation Earned</strong> and <strong>Vacation Available</strong> values. On your most recent pay stub, you can obtain your <strong>Vacation Accrual Rate</strong> towards the bottom under the <strong>Paid Time Off</strong> section in the column <strong>Current</strong>.</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6">
+            <h3>UltiPro Home Screen</h3>
+            <img src="%PUBLIC_URL%/homescreen.png" width="100%">
+        </div>
+        <div class="col-6">
+            <h3>Current Pay Stub</h3>
+            <img src="%PUBLIC_URL%/paystub.png" width="100%">
+        </div>
+      </div>
+    </div>
   </body>
 </html>
