@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VacationCalculator/precache-manifest.57fefb8cf6d329150df770cea233effa.js"
+  "/VacationCalculator/precache-manifest.e92b1e4f4961dcd0beaeba631f62f34b.js"
 );
 
 self.addEventListener('message', (event) => {

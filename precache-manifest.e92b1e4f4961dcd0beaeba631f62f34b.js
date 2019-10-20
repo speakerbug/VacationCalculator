@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afa1a8243e672aecebc9a169a6cfb1dd",
+    "revision": "a15abeb4a363658ae357aec1f18a737c",
     "url": "/VacationCalculator/index.html"
   },
   {
-    "revision": "9d31640570bb274d06f7",
+    "revision": "96f132a3fd16f1cef7c9",
     "url": "/VacationCalculator/static/css/main.0344bbbc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VacationCalculator/static/js/2.37e89b2f.chunk.js"
   },
   {
-    "revision": "9d31640570bb274d06f7",
-    "url": "/VacationCalculator/static/js/main.2cd3a944.chunk.js"
+    "revision": "96f132a3fd16f1cef7c9",
+    "url": "/VacationCalculator/static/js/main.63413582.chunk.js"
   },
   {
     "revision": "a816493641c05548eea3",
