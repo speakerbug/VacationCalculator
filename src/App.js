@@ -82,7 +82,7 @@ class App extends React.Component {
         <td>{(this.state.unaccrued).toFixed(2)}</td>
         <td>{(this.state.unaccrued/8).toFixed(0)}</td>
       </tr>
-      <tr>
+      <tr className="table-success">
         <td>Remaining Vacation</td>
         <td>{(this.state.remaining).toFixed(2)}</td>
         <td>{(this.state.remaining/8).toFixed(0)}</td>
